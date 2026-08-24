@@ -1,8 +1,12 @@
-# 📊 Retail-Sales-Performance-Analysis-PowerBI
+#  Retail-Sales-Performance-Analysis-PowerBI
 Interactive Power BI dashboard analyzing retail sales performance, customer behavior, product trends, profitability, and regional insights using data visualization and business intelligence techniques.
 
 
+ # 📊 Retail Sales Performance Analysis | Power BI Dashboard
 
+An interactive Power BI Retail Sales Analytics Dashboard designed to analyze sales performance, customer segments, product profitability, regional distribution, and business trends.
+
+This project transforms raw retail transaction data into meaningful business insights using data modeling, DAX calculations, and advanced Power BI visualizations.
 
 ---
 
