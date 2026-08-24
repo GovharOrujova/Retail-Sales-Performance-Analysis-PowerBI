@@ -165,6 +165,7 @@ The final dashboard delivers:
 
 # 👤 About Me
 
+📩 Contact: [govharorucova@outlook.com] 🌐 GitHub: [https://github.com/GovharOrujova]
 
+[https://www.linkedin.com/in/govhar-orujova-64333b369/]
 
-⭐ If you find this project useful, feel free to star the repository!
